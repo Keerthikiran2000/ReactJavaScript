@@ -1,0 +1,22 @@
+{
+  "name": "courseragitweb",
+  "version": "1.0.0",
+  "description": "React js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerthikiran2000/ReactJavaScript.git"
+  },
+  "author": "Keerthi Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keerthikiran2000/ReactJavaScript/issues"
+  },
+  "homepage": "https://github.com/Keerthikiran2000/ReactJavaScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
